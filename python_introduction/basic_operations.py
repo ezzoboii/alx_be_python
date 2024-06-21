@@ -1,6 +1,5 @@
-addition = 10 + 5
-subtraction = 10 - 5
-multiplication = 10 * 5
-print(addition)
-print(subtraction)
-print(multiplication)
+number1 = 10
+number2 = 5
+print("addition","of",number1,"and",number2,"is",15)
+print("subtraction","of",number1,"and",number2,"is",5)
+print("multiplication","of",number1,"and",number2,"is",50)
