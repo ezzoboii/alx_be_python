@@ -33,4 +33,6 @@ def main():
         print(f"Error: {e}. Please enter a numeric value for temperature.")
 
 if __name__ == "__main__":
+
+Invalid temperature. Please enter a numeric value.    
     main()
