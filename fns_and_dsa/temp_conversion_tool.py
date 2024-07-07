@@ -1,3 +1,6 @@
+FAHRENHEIT_TO_CELSIUS_FACTOR
+CELSIUS_TO_FAHRENHEIT_FACTOR
+
 # temp_conversion_tool.py
 
 # Define Global Conversion Factors
