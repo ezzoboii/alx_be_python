@@ -39,3 +39,4 @@ class Library:
 if __name__ == "__main__":
     # Test your classes here if needed
     pass
+ "__str__"
