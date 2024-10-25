@@ -25,4 +25,4 @@ if __name__ == "__main__":
 
     # Prompting user input for the type of operation
     operation = input("Choose the operation (+, -, *, /): ")
-   
+  . 
