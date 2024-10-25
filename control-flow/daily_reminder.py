@@ -33,4 +33,4 @@ else:
 print(reminder_message)
 
 # End of the script
-
+print\s*\(\s*f?['\"]Reminder:\s*
